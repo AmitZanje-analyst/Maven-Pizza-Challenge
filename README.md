@@ -18,4 +18,9 @@ Created a single page dashboard with different visuals to improve the restaurant
 ✅To tackle low performing months launch promotional offers like Valentine's week (February), Halloween offers(October). December has potential to perform better with Christmas and New Year Eve  
 ✅Store hours should be altered to 10am-10pm for better manpower allocation. 'Happy Opening hours' could be used to boost morning sales.  
 ✅Performance of XL size Greek Pizza is encouragement for addition if newer extra-large size pizza's  
+
+## Special mention Gerrad Duggan 
+your video came to rescue when I was stuck and made a huge difference in Seating capacity Analysis.
+Here's the link if you are also stuck
+https://youtu.be/ncWYyuxNK80?si=zwY0Aml1F4VJ8ss7
  
